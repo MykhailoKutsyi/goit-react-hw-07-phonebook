@@ -1,4 +1,4 @@
-import { useDeleteContactMutation } from '../redux/services';
+import { useDeleteContactMutation } from '../../redux/services';
 import Loader from 'components/Loader';
 
 import { FaUserAlt, FaPhoneAlt, FaClock } from 'react-icons/fa';
